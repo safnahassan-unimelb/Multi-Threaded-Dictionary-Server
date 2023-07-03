@@ -8,4 +8,5 @@ This work makes explicit use of sockets and threads to achieve the desired archi
 
 Commands:
 ```java –jar DictionaryServer.jar <port> <dictionary-file>```
-```ava –jar DictionaryClient.jar <server-address> <server-port>```
+
+```java –jar DictionaryClient.jar <server-address> <server-port>```
